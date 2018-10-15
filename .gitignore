@@ -1,0 +1,21 @@
+*/.factorypath
+**/.checkstyle
+
+# maven
+**/target/
+
+# eclipse
+.settings/
+.classpath
+.project
+.tern-project
+*.jsfdia
+
+*/.settings/
+*/.classpath
+*/.project
+*/.tern-project
+
+/src/main/resources/log4j.properties
+/bin/
+/.metadata/
